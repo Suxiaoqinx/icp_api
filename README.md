@@ -21,6 +21,7 @@ Python >= 3
 |  参数列表  | 参数说明 |
 |  ----  | ---- |
 | domain | 域名url地址|
+| type | cache(则缓存) 为空则不缓存 |
 
 # 感谢
 [Ravizhan](https://github.com/ravizhan)
