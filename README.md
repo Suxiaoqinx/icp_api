@@ -1,7 +1,7 @@
 # 使用方法
 先安装 文件所需要的依赖模块 
 pip install -r requirements.txt
-再运行main.py文件即可
+再运行mainapi.py文件即可
 
 # 环境要求
 Python >= 3
